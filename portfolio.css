@@ -1,0 +1,591 @@
+.body
+{
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+.header
+{
+    background-color: black;
+    float: left;
+}
+.header i
+{
+    float: left;
+    color: whitesmoke;
+    padding: 0px 0px;
+    margin: 10px 13px 0px 56px;
+}
+.header p
+{
+    color: whitesmoke;
+    margin: 5px 0px;
+    padding: 0px 0px;
+    float: left;
+}
+.header01
+{
+    float: right;
+}
+.header01 img
+{
+    float: right;
+    width: 25px;
+    height: 25px;
+    margin: 7px 20px;
+    /* font-size: 16px; */
+}
+
+.logo
+{
+    float: left;
+}
+.menu
+{
+    float: right;
+    padding: 8px 0px ;
+}
+
+
+/* header***part***close */
+
+/* slider****part***open */
+.slider
+{
+    background-color: black;
+    float: left;
+}
+.im
+{
+    float: left;
+}
+.im img
+{
+    margin: 50px 116px;
+    border: 1.7px solid  rgb(255, 255, 255);
+    border-radius: 50%;
+    width: 550px;
+    padding: 10px;
+    height: 550px;
+    float: left;
+}
+.im img:hover
+{
+    box-shadow: 0 0 10px 5px rgb(255, 255, 255);
+}
+.pha
+{
+    float: left;
+    margin: 50px 0px;
+    padding: 0px 0px;
+}
+.pha h1
+{
+    margin: 63px 0px 0px 194px;
+    padding: 0px 0px;
+    font-size: 70px;
+    font-family: revert-layer;
+    color: whitesmoke;
+}
+.pha h3
+{
+    margin: 16px 0px 0px 194px;
+    padding: 0px 0px;
+    font-size: 30px;
+    color: whitesmoke;
+}
+.pha p
+{
+    margin: 23px 194px;
+    padding: 0px 0px;
+    float: left;
+    font-size: 17px;
+    color: whitesmoke;
+}
+.pro
+{
+    background-color: bisque;
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 8px 20px;
+    margin: 18px 32px 0px 194px;
+    color: black;
+    float: left;
+}
+.re
+{
+    background-color: bisque;
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 8px 20px;
+    margin: 18px 0px;
+    color: black;
+    float: left;
+}
+.heading
+{
+    float: left;
+}
+.heading h1
+{
+    text-align: center;
+    margin: 75px 0px;
+    font-size: 50px;
+    font-family: revert-layer;
+}
+.sk
+{
+    float: left;
+}
+.sk img
+{
+    float: left;
+    width: 275px;
+    height: 275px;
+    margin: 28px 78.5px ;
+}
+.sk h2
+{
+    text-align: center;
+}
+/* slider****part*****close */
+
+
+/* service part open */
+.sir
+{
+    float: left;
+    background-color: black;
+    margin: 80px 0px 0px 0px;
+    padding: 0px 0px 50px 0px;
+}
+.heading01
+{
+    margin: 0px 0px;
+    float: left;
+}
+.heading01 h1
+{
+    text-align: center;
+    margin: 75px 0px;
+    font-size: 50px;
+    font-family: revert-layer;
+    color: whitesmoke;
+
+}
+.service
+{
+    float: left;
+
+}
+.service img
+{
+    width: 50px;
+    height: 50px;
+    margin: 35px 190px;
+}
+.service h3
+{
+    text-align: center;
+    color:  whitesmoke;
+}
+.service p
+{
+    text-align: center;
+    padding: 0px 0px;
+    color: whitesmoke;
+}
+/* service part close */
+/* project part open */
+.project
+{
+    float: left;
+    background-color: antiquewhite;
+}
+.photo
+{
+    float: left;
+    margin: 0px 0px;
+}
+.photo h1
+{
+    text-align: center;
+    margin: 75px 0px;
+    font-size: 50px;
+    font-family: revert-layer;
+    color: black;
+}
+.pho01 
+{
+    float: left;
+}
+.pho01 img
+{
+    width: 600px;
+}
+.pho02 
+{
+   float: left;
+}
+.pho02 img
+{
+    width: 640px;
+    height: 632px;
+    margin-bottom: 55px;
+}
+.pho03 
+{
+   float: left;
+}
+.pho03 img
+{
+    width: 601px;
+    height: 543px;
+    margin-bottom: 55px;
+}
+.pho04 
+{
+    float: left;
+}
+.pho04 img
+{
+    width: 640px;
+    height: 1143px;
+}
+/* project part close */
+/* footer part open */
+.footer
+{
+    float: left;
+    background-color: black;
+}
+.icon i
+{
+    text-align: center;
+    color: white;
+    display: block;
+    margin: 13px 0px;
+
+}
+.icon a
+{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    float: left;
+    margin: 95px 43px;
+    padding: 0px 0px;
+}
+.icon p
+{
+    padding: 0px 0px;
+}
+.yop
+{
+     float: left;
+}
+.in input
+{
+    float: left;
+}
+
+
+/* footer part close */
+
+
+
+/* *********************mobile media query ************************ */
+@media only screen and (max-width:505px)
+{
+    .header
+    {
+        background-color: black;
+        float: left;
+    }
+    .header i
+    {
+        width: 50%;
+        float: left;
+        color: whitesmoke;
+        padding: 0px 0px;
+        margin: 10px 21px 0px 3px;
+    }
+    .header p
+    {
+        color: whitesmoke;
+        margin: 11px 2px;
+        padding: 0px 0px;
+        float: left;
+        width: 50%;
+    }
+    .header01
+    {
+        float: right;
+    }
+    .header01 img
+    {
+        width: 50%;
+        float: left;
+        width: 13%;
+        height: 25px;
+        margin: 15px 40px;
+        font-size: 16px;
+    }
+    
+    .logo
+    {
+        float: left;
+    }
+    .menu
+    {
+        float: right;
+        padding: 8px 0px ;
+    }
+    
+    
+    /* header***part***close */
+    
+    /* slider****part***open */
+    .slider
+    {
+        background-color: black;
+        float: left;
+        /* margin: 0px 12px; */
+    }
+    .im
+    {
+        float: left;
+    }
+    .im img
+    {
+        margin: 71px 47px;
+        border: 1.7px solid  rgb(255, 255, 255);
+        border-radius: 50%;
+        width: 158%;
+        padding: 10px;
+        height: 371px;
+        float: left;
+    }
+    .im img:hover
+    {
+        box-shadow: 0 0 10px 5px rgb(255, 255, 255);
+    }
+    .pha
+    {
+        width: 80%;
+        float: left;
+        margin: 0px 1px;
+        padding: 0px 0px;
+    }
+    .pha h1
+    {
+        margin: 0px 109px;
+        padding: 0px 0px;
+        font-size: 70px;
+        font-family: revert-layer;
+        color: whitesmoke;
+    }
+    .pha h3
+    {
+        margin: 25px 109px;
+        padding: 0px 0px;
+        font-size: 30px;
+        color: whitesmoke;
+    }
+    .pha p
+    {
+        margin: 7px 113px;
+        width: 100%;
+        padding: 0px 56px 0px 0px;
+        float: left;
+        font-size: 14px;
+        color: whitesmoke;
+    }
+    .pro
+    {
+        background-color: bisque;
+        border-radius: 20px;
+        text-decoration: none;
+        padding: 8px 20px;
+        margin: 19px 33px 0px 110px;
+        color: black;
+        float: left;
+    }
+    .re
+    {
+        background-color: bisque;
+        border-radius: 20px;
+        text-decoration: none;
+        padding: 8px 20px;
+        margin: 17px 0px;
+        color: black;
+        float: left;
+    }
+    .heading
+    {
+        float: left;
+    }
+    .heading h1
+    {
+        text-align: center;
+        margin: 75px 0px;
+        font-size: 50px;
+        font-family: revert-layer;
+    }
+    .sk
+    {
+        float: left;
+    }
+    .sk img
+    {
+        float: left;
+        width: 40%;
+        height: 55px;
+        margin: 28px 45.5px;
+    }
+    .sk h2
+    {
+        text-align: center;
+    }
+    /* slider****part*****close */
+    
+    
+    /* service part open */
+    .sir
+    {
+        float: left;
+        background-color: black;
+        margin: 80px 0px 0px 0px;
+        padding: 0px 0px 50px 0px;
+    }
+    .heading01
+    {
+        margin: 0px 0px;
+        float: left;
+    }
+    .heading01 h1
+    {
+        text-align: center;
+        margin: 75px 0px;
+        font-size: 50px;
+        font-family: revert-layer;
+        color: whitesmoke;
+    
+    }
+    .service
+    {
+        float: left;
+    
+    }
+    .service img
+    {
+        width: 32%;
+        height: 57px;
+        margin: 36px 52px;
+    }
+    .service h3
+    {
+        text-align: center;
+        color:  whitesmoke;
+    }
+    .service p
+    {
+        text-align: center;
+        padding: 3px 13px;
+        color: whitesmoke;
+    }
+    /* service part close */
+    /* project part open */
+    .project
+    {
+        float: left;
+        background-color: antiquewhite;
+    }
+    .photo
+    {
+        float: left;
+        margin: 0px 0px;
+    }
+    .photo h1
+    {
+        text-align: center;
+        margin: 75px 0px;
+        font-size: 50px;
+        font-family: revert-layer;
+        color: black;
+    }
+    .pho01 
+    {
+        float: left;
+    }
+    .pho01 img
+    {
+        width: 90%;
+    }
+    .pho02 
+    {
+       float: left;
+    }
+    .pho02 img
+    {
+        width: 90%;
+        height: 203px;
+        margin-bottom: 25px;
+    }
+    .pho03 
+    {
+       float: left;
+    }
+    .pho03 img
+    {
+        width: 90%;
+        height: 223px;
+        margin-bottom: 14px;
+    }
+    .pho04 
+    {
+        float: left;
+    }
+    .pho04 img
+    {
+        width: 90%;
+        height: 460px;
+    }
+    /* project part close */
+    /* footer part open */
+    .footer
+    {
+        float: left;
+        background-color: black;
+    }
+    .icon i
+    {
+        /* text-align: center; */
+        color: white;
+        display: block;
+        margin: 28px 0px;
+        float: left;
+    }
+    .icon a
+    {
+        text-align: center;
+        text-decoration: none;
+        color: white;
+        float: left;
+        margin: 10px 109px 0px 0px;
+        padding: 0px 0px;
+    }
+    .icon p
+    {
+        padding: 20px 37px;
+    }
+    .yop
+    {
+         float: left;
+    }
+    .in input
+    {
+        float: left;
+    }
+}
+/* *********************mobile media query ************************ */
+
